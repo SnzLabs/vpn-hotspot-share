@@ -34,7 +34,7 @@ Your real VPN connection and your phone's own traffic are untouched.
 ## Install
 
 1. Download **VPN-Share-v3.7.apk** from
-   [Releases](https://github.com/SnzLabs/vpn-share/releases) and install it.
+   [Releases](https://github.com/SnzLabs/vpn-hotspot-share/releases) and install it.
 2. Connect your VPN.
 3. Open VPN Share, pick **Root Mode** (rooted phone) or **Non-Root Mode**,
    and turn it on.
