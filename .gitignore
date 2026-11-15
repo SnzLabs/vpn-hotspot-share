@@ -1,0 +1,21 @@
+# Build outputs and local files — never committed.
+*.apk
+*.aab
+*.apks
+*.dex
+*.jar
+*.keystore
+*.jks
+local.properties
+.gradle/
+.idea/
+build/
+app/build/
+**/.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+*.iml
+
+# The app source code is private and is never part of this repository.
+src/
